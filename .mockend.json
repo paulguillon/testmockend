@@ -12,6 +12,6 @@
     },
     "User": {
         "name": "name",
-        "age": "age"
+        "age": "int"
     }
   }
