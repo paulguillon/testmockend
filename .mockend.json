@@ -11,8 +11,7 @@
       "post": "Post"
     },
     "User": {
-        "prenom": "name",
-        "nom": "name",
-        "age": "int"
+        "name": "name",
+        "age": "age"
     }
   }
