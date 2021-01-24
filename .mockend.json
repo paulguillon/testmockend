@@ -9,5 +9,10 @@
     "Comment": {
       "body": "string",
       "post": "Post"
+    },
+    "User": {
+        "prenom": "name",
+        "nom": "name",
+        "age": "int"
     }
   }
